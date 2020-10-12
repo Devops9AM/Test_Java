@@ -1,5 +1,5 @@
 class java.util.Scanner;
-public calls demosum{
+public class demosum{
 public static void main(String[] args)
 {
 int num, count,total=0;
