@@ -1,4 +1,4 @@
-class java.util.Scanner;
+import java.util.Scanner;
 public class demosum{
 public static void main(String[] args)
 {
@@ -11,6 +11,6 @@ for(count=1;count<=num;count++)
 {
 total=total+count;
 }
-System.out.pritln(Sum of First"+num+"natural numbers are :"+total);
+System.out.pritln("Sum of First"+num+"natural numbers are :"+total);
 }
 }
