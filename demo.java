@@ -1,7 +1,7 @@
 lass demo
 
 public static void main(String[] args)
-{
+asdgasd
 int num=10, count=1, total=0;
 while(count<=num)
 {
