@@ -14,3 +14,4 @@ total=total+count;
 System.out.println("Sum of First"+num+"natural numbers are :"+total);
 }
 }
+//This is Comment line
