@@ -12,3 +12,4 @@ System.out.println("The Sum of First 10 Natural numbers are"+total);
 }
 }
 
+//Hi This is Comment line  in this program
